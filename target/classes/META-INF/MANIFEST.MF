@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: DataServiceSample
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: don.chiramel.joseph
+Implementation-Vendor-Id: DataService
+Build-Jdk: 1.8.0_191
+Implementation-URL: http://projects.spring.io/spring-boot/DataServiceS
+ ample/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

@@ -1,0 +1,5 @@
+---
+applications:- name: spring-boot-app-cloud
+  instances: 1
+  host: spring-boot-app-cloud
+  path: target/DataServiceSample-0.0.1-SNAPSHOT.jar
